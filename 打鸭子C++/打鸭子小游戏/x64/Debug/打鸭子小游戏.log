@@ -1,0 +1,3 @@
+﻿  GenerateJson.cpp
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\打鸭子C++\打鸭子小游戏\GenerateJson.cpp(11,29): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  打鸭子小游戏.vcxproj -> C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\打鸭子C++\x64\Debug\打鸭子小游戏.exe

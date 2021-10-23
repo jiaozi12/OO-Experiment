@@ -1,0 +1,2004 @@
+{
+    "keyFrames": [
+        {
+            "action": "0",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.66988334634846824",
+                "0.11916396710163304",
+                "0.16255123181377792"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "3.75",
+            "startpos": [
+                "0.66988334634846824",
+                "0.11916396710163304",
+                "0.16255123181377792"
+            ],
+            "endpos": [
+                "0.46316495679943598",
+                "0.20132980712043527",
+                "0.062932241173396103"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.46316495679943598",
+                "0.20132980712043527",
+                "0.062932241173396103"
+            ],
+            "endpos": [
+                "0.1717701995238973",
+                "0.94089207603994651",
+                "0.58850947492258687"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "11.25",
+            "startpos": [
+                "0.1717701995238973",
+                "0.94089207603994651",
+                "0.58850947492258687"
+            ],
+            "endpos": [
+                "0.43603881045147957",
+                "0.74480143711603475",
+                "0.64055854195739836"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "15",
+            "startpos": [
+                "0.43603881045147957",
+                "0.74480143711603475",
+                "0.64055854195739836"
+            ],
+            "endpos": [
+                "0.038273220215024516",
+                "0",
+                "0.38377020904704745"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "18.75",
+            "startpos": [
+                "0.038273220215024516",
+                "0",
+                "0.38377020904704745"
+            ],
+            "endpos": [
+                "0.47563388720664446",
+                "0",
+                "0.7205135145365944"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.47563388720664446",
+                "0",
+                "0.7205135145365944"
+            ],
+            "endpos": [
+                "0.42795511494178556",
+                "0",
+                "0.78201046859666423"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "26.25",
+            "startpos": [
+                "0.42795511494178556",
+                "0",
+                "0.78201046859666423"
+            ],
+            "endpos": [
+                "0.3864099018413098",
+                "0",
+                "0.2573912399482009"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.66721509710935767",
+                "0.35026036441509167",
+                "0.16225431514906993"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.66721509710935767",
+                "0.35026036441509167",
+                "0.16225431514906993"
+            ],
+            "endpos": [
+                "0.56163205063028632",
+                "0.99057103941908486",
+                "0.13974050139922398"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "15",
+            "startpos": [
+                "0.56163205063028632",
+                "0.99057103941908486",
+                "0.13974050139922398"
+            ],
+            "endpos": [
+                "0.33330462674965866",
+                "0.75150786969020034",
+                "0.40936390915249038"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.33330462674965866",
+                "0.75150786969020034",
+                "0.40936390915249038"
+            ],
+            "endpos": [
+                "0.17993139172893419",
+                "0.41971874388742203",
+                "0.64778864050361629"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "AirBus",
+            "goname": "AirBus0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirBus",
+            "goname": "AirBus0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.46776252690829273",
+                "0.025436215825426194",
+                "0.93839358578532328"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirBus",
+            "goname": "AirBus0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.46776252690829273",
+                "0.025436215825426194",
+                "0.93839358578532328"
+            ],
+            "endpos": [
+                "0.041307995786056206",
+                "0.37973756973700007",
+                "0.76833883537844672"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirBus",
+            "goname": "AirBus0",
+            "timestamp": "15",
+            "startpos": [
+                "0.041307995786056206",
+                "0.37973756973700007",
+                "0.76833883537844672"
+            ],
+            "endpos": [
+                "0.56222746685890479",
+                "0.45723397889889306",
+                "0.38136759072310999"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirBus",
+            "goname": "AirBus0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.56222746685890479",
+                "0.45723397889889306",
+                "0.38136759072310999"
+            ],
+            "endpos": [
+                "0.51228472628773802",
+                "0.29045981081262978",
+                "0.079886445897753733"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.56835358307247441",
+                "0.7384351027592736",
+                "0.52717218059432025"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.56835358307247441",
+                "0.7384351027592736",
+                "0.52717218059432025"
+            ],
+            "endpos": [
+                "0.013993902422169977",
+                "0.81579529057240374",
+                "0.48527835107572431"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck0",
+            "timestamp": "15",
+            "startpos": [
+                "0.013993902422169977",
+                "0.81579529057240374",
+                "0.48527835107572431"
+            ],
+            "endpos": [
+                "0.26310276467856031",
+                "0.95560583226099238",
+                "0.046752225291020168"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.26310276467856031",
+                "0.95560583226099238",
+                "0.046752225291020168"
+            ],
+            "endpos": [
+                "0.87601027730158176",
+                "0.30450735798363948",
+                "0.82464298536548331"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "3",
+            "type": "3",
+            "name": "Squick",
+            "goname": "RubberDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "30",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.14345168331837679",
+                "0",
+                "0.1400576093140852"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.14345168331837679",
+                "0",
+                "0.1400576093140852"
+            ],
+            "endpos": [
+                "0.37202235737264971",
+                "0",
+                "0.10951316250052198"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "15",
+            "startpos": [
+                "0.37202235737264971",
+                "0",
+                "0.10951316250052198"
+            ],
+            "endpos": [
+                "0.3353135221870383",
+                "0",
+                "0.29609029036308193"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.3353135221870383",
+                "0",
+                "0.29609029036308193"
+            ],
+            "endpos": [
+                "0.0032202760644993787",
+                "0",
+                "0.029166531676057521"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "3",
+            "type": "3",
+            "name": "Quack",
+            "goname": "RedHeadDuck1",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "30",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.06956177936045975",
+                "0",
+                "0.73409119157031799"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "3.75",
+            "startpos": [
+                "0.06956177936045975",
+                "0",
+                "0.73409119157031799"
+            ],
+            "endpos": [
+                "0.44549378346442514",
+                "0",
+                "0.24441146739302252"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.44549378346442514",
+                "0",
+                "0.24441146739302252"
+            ],
+            "endpos": [
+                "0.014085438844905989",
+                "0",
+                "0.98109136376547545"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "11.25",
+            "startpos": [
+                "0.014085438844905989",
+                "0",
+                "0.98109136376547545"
+            ],
+            "endpos": [
+                "0.23670579428477034",
+                "0",
+                "0.14237795827062596"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3.75",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "15",
+            "startpos": [
+                "0.23670579428477034",
+                "0",
+                "0.14237795827062596"
+            ],
+            "endpos": [
+                "0.23670579428477034",
+                "0",
+                "0.14237795827062596"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "2",
+            "content": "Stun",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RedHeadDuck",
+            "goname": "RedHeadDuck1",
+            "timestamp": "17",
+            "startpos": [
+                "0.23670579428477034",
+                "0",
+                "0.14237795827062596"
+            ],
+            "endpos": [
+                "0.23670579428477034",
+                "0",
+                "0.14237795827062596"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "13",
+            "content": "Death",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "AirForceOne",
+            "goname": "AirForceOne0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirForceOne",
+            "goname": "AirForceOne0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.14410399589260256",
+                "0.14141344408396103",
+                "0.81228259298189409"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirForceOne",
+            "goname": "AirForceOne0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.14410399589260256",
+                "0.14141344408396103",
+                "0.81228259298189409"
+            ],
+            "endpos": [
+                "0.77927904634807177",
+                "0.4865244975543575",
+                "0.52422058323880505"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirForceOne",
+            "goname": "AirForceOne0",
+            "timestamp": "15",
+            "startpos": [
+                "0.77927904634807177",
+                "0.4865244975543575",
+                "0.52422058323880505"
+            ],
+            "endpos": [
+                "0.2341959419302681",
+                "0.15591322402040822",
+                "0.6272759531550699"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "AirForceOne",
+            "goname": "AirForceOne0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.2341959419302681",
+                "0.15591322402040822",
+                "0.6272759531550699"
+            ],
+            "endpos": [
+                "0.68593873188815102",
+                "0.94916974781697194",
+                "0.068189567966171469"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "DecoyDuck",
+            "goname": "DecoyDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "3",
+            "type": "3",
+            "name": "Quack",
+            "goname": "DecoyDuck0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "30",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "0",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.89773237869938427",
+                "0.85761260154936891",
+                "0.75164324488406731"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropeller",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "7.5",
+            "startpos": [
+                "0.89773237869938427",
+                "0.85761260154936891",
+                "0.75164324488406731"
+            ],
+            "endpos": [
+                "0.547373781078626",
+                "0.15502899672660553",
+                "0.27198928617661178"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropeller",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "15",
+            "startpos": [
+                "0.547373781078626",
+                "0.15502899672660553",
+                "0.27198928617661178"
+            ],
+            "endpos": [
+                "0.94643935939185408",
+                "0.55699072735175648",
+                "0.93673960518989519"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropeller",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "22.5",
+            "startpos": [
+                "0.94643935939185408",
+                "0.55699072735175648",
+                "0.93673960518989519"
+            ],
+            "endpos": [
+                "0.16110211843997974",
+                "0.85874691149780025",
+                "0.74992938389929698"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7.5",
+            "content": "FlyWithPropeller",
+            "loop": "0"
+        }
+    ]
+}
