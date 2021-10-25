@@ -49,6 +49,7 @@ vector<PathNode> GenJsonFromObj::GenPath(vector<double> startPos, vector<double>
 	{ 
 		uniform_real_distribution<double> x(limit[0].first, limit[0].second), y(limit[1].first, limit[1].second), z(limit[2].first, limit[2].second);
 		vector<double> random = { x(e), y(e), z(e) };
+		if (timestamp[i] == 0) timestamp[i] = 1;
 		path.push_back(PathNode(2, timestamp[i], last, random, timestamp[i+1]-timestamp[i]));
 		last = random;
 	}
@@ -110,7 +111,7 @@ vector<KeyFrame> GenJsonFromObj::GenKeyFrames(unordered_map<string, vector<strin
 			}
 
 			else if (be == "flynoway" || be == "mutequack") continue;
-			else if (be == "swim")
+			else if (be == "swim" || be == "float")
 			{
 				vector<double> timestamp;
 				startTime = endTime;
@@ -134,7 +135,7 @@ vector<KeyFrame> GenJsonFromObj::GenKeyFrames(unordered_map<string, vector<strin
 					else et += dur;
 				}
 				KeyFrame kf1(0, type, getClass(it.first), it.first, st, zero, zero, 0, "");
-				KeyFrame kf2(3, type, jt, it.first, st, zero, zero, min(et, totalTime), "");
+				KeyFrame kf2(3, type, jt, it.first, st+1, zero, zero, min(et, totalTime)-1, "");
 				keyFrames.push_back(kf1);
 				keyFrames.push_back(kf2);
 			}

@@ -42,6 +42,7 @@ public class GenJsonFromObj {
             for(int j=0;j<limit.size();j++) {
                 r.add(limit.get(j).get(0) + ((limit.get(j).get(1) - limit.get(j).get(0)) * seed.nextDouble()));
             }
+            if(timestamp.get(i) == 0) timestamp.set(i, 1.0);
             path.add(new PathNode(2, timestamp.get(i), new Vector<Double>(last), r, timestamp.get(i+1)-timestamp.get(i)));
             last.clear();
             last.addAll(r);
@@ -107,7 +108,7 @@ public class GenJsonFromObj {
                     startPos.addAll(path.lastElement().endpos);
                 }
                 else if(be.equals("flynoway") || be.equals("mutequack")) continue;
-                else if(be.equals("swim")) {
+                else if(be.equals("swim") || be.equals("float")) {
                     Vector<Double> timestamp = new Vector<Double>();
                     startTime = endTime;
                     endTime += dur;
@@ -133,7 +134,7 @@ public class GenJsonFromObj {
                         else et += dur;
                     }
                     KeyFrame kf1 = new KeyFrame(0, type, getClass(it), it, st, zero, zero, 0.0, "");
-                    KeyFrame kf2 = new KeyFrame(3, type, jt, it, st, zero, zero, min(et, totalTime), "");
+                    KeyFrame kf2 = new KeyFrame(3, type, jt, it, st+1, zero, zero, min(et, totalTime)-1, "");
                     keyFrames.add(kf1);
                     keyFrames.add(kf2);
                 }

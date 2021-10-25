@@ -11,10 +11,17 @@
 
 int main()
 {
-    vector<string> v = { "MallardDuck_0, FlyWithWings,, Swim", "RedHeadDuck_0, FlyWithWings", \
-        "RedHeadDuck_1,Swim,Stun,Quack", "RubberDuck_0”,Swim,Squick", "DecoyDuck_0,Quack", \
-        "AirForceOne_0,FlyWithPropulsion", "AirBus_0,FlyWithPropulsion" , "Boeing_0,FlyWithPropulsion", \
-        "Apache_0,FlyWithPropeller" };
+    vector<string> v = { 
+        "MallardDuck_0, FlyWithWings,, Swim", 
+        "RedHeadDuck_0, FlyWithWings",
+        "RedHeadDuck_1,Swim,Stun,Quack", 
+        "RubberDuck_0,Float,Squick", 
+        "DecoyDuck_0,Quack",
+        "AirForceOne_0,FlyWithPropulsion", 
+        "AirBus_0,FlyWithPropulsion" , 
+        "Boeing_0,FlyWithPropulsion",
+        "Apache_0,FlyWithPropeller" 
+    };
 
     for (auto it : v)
     {

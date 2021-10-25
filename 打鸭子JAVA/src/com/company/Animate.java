@@ -11,7 +11,7 @@ public class Animate {
     public static HashMap<String, Vector<String>> op = new HashMap<String, Vector<String>>();
     public HashSet<String> legalName = new HashSet<String>() {{add("MallardDuck"); add("RedHeadDuck"); add("RubberDuck");
     add("DecoyDuck"); add("AirForceOne"); add("AirBus"); add("Boeing"); add("Apache"); add("FlyWithWings"); add("Swim");
-    add("Quack"); add("Stun"); add("Squick"); add("FlyWithPropulsion"); add("FlyWithPropeller");}};
+    add("Float"); add("Quack"); add("Stun"); add("Squick"); add("FlyWithPropulsion"); add("FlyWithPropeller");}};
 
     private String preDeal(String s) {
         // 删除s中的非数字、下划线、大小写字母、英文逗号字符
