@@ -1,0 +1,340 @@
+{
+    "keyFrames": [
+        {
+            "action": "0",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "0",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0.10000000000000001",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "3",
+            "type": "3",
+            "name": "Quack",
+            "goname": "MallardDuck0",
+            "timestamp": "0.10000000000000001",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "15.1",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "1.1000000000000001",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.16282413456596406",
+                "0.11192552554002183",
+                "0.43771694242255688"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "2.9999999999999996",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "4.0999999999999996",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0.16282413456596406",
+                "0.11192552554002183",
+                "0.43771694242255688"
+            ],
+            "endpos": [
+                "0.16282413456596406",
+                "0",
+                "0.43771694242255688"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "1",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "5.0999999999999996",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0.16282413456596406",
+                "0",
+                "0.43771694242255688"
+            ],
+            "endpos": [
+                "0.014719854376069295",
+                "0",
+                "0.43097644074722802"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "10.1",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "8.0999999999999996",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0.10000000000000001",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "3",
+            "type": "3",
+            "name": "Squick",
+            "goname": "RubberDuck0",
+            "timestamp": "8.1999999999999993",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "7",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "RubberDuck",
+            "goname": "RubberDuck0",
+            "timestamp": "9.1999999999999993",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.090500823320622231",
+                "0",
+                "0.6546577269875381"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3",
+            "content": "Float",
+            "loop": "0"
+        }
+    ]
+}

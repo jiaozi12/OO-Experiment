@@ -1,0 +1,11 @@
+﻿  Animate.cpp
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\Animate.cpp(55,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\Animate.cpp(57,15): warning C4018: “<”: 有符号/无符号不匹配
+  GenerateJson.cpp
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\GenerateJson.cpp(11,29): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\GenerateJson.cpp(27,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\GenerateJson.cpp(81,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\大实验\GenerateJson.cpp(91,44): warning C4018: “>=”: 有符号/无符号不匹配
+  main.cpp
+  正在生成代码...
+  大实验.vcxproj -> C:\Study\硕士研究生\助教\面向对象分析和设计\实验\程序\大实验C++\Debug\大实验.exe

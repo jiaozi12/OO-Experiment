@@ -1,0 +1,340 @@
+{
+    "keyFrames": [
+        {
+            "action": "0",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "0",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0.10000000000000001",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "0.10000000000000001",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.32742054640275325",
+                "0.33159015753694776",
+                "0.59237546301169397"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "3.1000000000000001",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0.32742054640275325",
+                "0.33159015753694776",
+                "0.59237546301169397"
+            ],
+            "endpos": [
+                "0.32742054640275325",
+                "0",
+                "0.59237546301169397"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "1",
+            "content": "FlyWithWings",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "MallardDuck",
+            "goname": "MallardDuck0",
+            "timestamp": "4.0999999999999996",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0.32742054640275325",
+                "0",
+                "0.59237546301169397"
+            ],
+            "endpos": [
+                "0.1595875790058231",
+                "0",
+                "0.5234140100354987"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "9.1999999999999993",
+            "content": "Swim",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "7.0999999999999996",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0.10000000000000001",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Boeing",
+            "goname": "Boeing0",
+            "timestamp": "7.1999999999999993",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.0020907029005009514",
+                "0.36911096403758792",
+                "0.33658252045403647"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "6.0999999999999996",
+            "content": "FlyWithPropulsion",
+            "loop": "0"
+        },
+        {
+            "action": "0",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "10.199999999999999",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "0.10000000000000001",
+            "content": "",
+            "loop": "0"
+        },
+        {
+            "action": "2",
+            "type": "3",
+            "name": "Apache",
+            "goname": "Apache0",
+            "timestamp": "10.299999999999999",
+            "background": "Hot",
+            "clothes": "",
+            "startpos": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endpos": [
+                "0.35996456522322084",
+                "0.061576449637393962",
+                "0.61580171072171952"
+            ],
+            "startrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "endrotation": [
+                "0",
+                "0",
+                "0"
+            ],
+            "startscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "endscale": [
+                "1",
+                "1",
+                "1"
+            ],
+            "duration": "3",
+            "content": "FlyWithPropeller",
+            "loop": "0"
+        }
+    ]
+}
